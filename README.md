@@ -6,3 +6,13 @@ Este proyecto presenta un **Análisis Exploratorio de Datos (EDA)** sobre el com
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 
 ![Estado](https://img.shields.io/badge/Estado-Completado-success)
+
+---
+
+## Índice
+
+- [Resumen Ejecutivo](#resumen-ejecutivo)
+- [Tabla de KPIs](#tabla-de-kpis)
+- [Metodología](#metodología)
+- [Código Destacado](#código-destacado)
+
