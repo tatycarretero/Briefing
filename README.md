@@ -28,5 +28,15 @@ Este proyecto presenta un **Análisis Exploratorio de Datos (EDA)** sobre el com
 - **Fricción en móviles:** La columna `device_type` reveló que el 70% del tráfico viene de mobile, pero la conversión es un 1.8% menor que en desktop.
 
 - **Categoría estrella:** Los productos de la categoría `Hogar_Sostenible` concentran el mayor margen de beneficio neto.
+##  Tabla de datos
+
+##  Tabla de métricas
+
+| Métrica | 2024 | 2025 | Variación |
+|---|---:|---:|---:|
+| Ingresos Totales | $450,000 | $585,000 | +30.0% |
+| Ticket Promedio | $42.50 | $46.80 | +10.1% |
+| Tasa de Conversión | 2.4% | 2.9% | +0.5 pp |
+| Tasa de Abandono (Churn) | 18.0% | 14.5% | -3.5% |
 
 
